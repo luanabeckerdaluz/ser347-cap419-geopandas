@@ -10,7 +10,7 @@ Este repositório contém um exemplo prático de uso da biblioteca **GeoPandas**
 
 ### ▶️ Como usar
 
-Após clone do repositório ou download da pasta, rode os comandos `unzip biomas.zip`, `unzip uf_2018.zip` e `unzip focos.zip` para extrair os arquivos shapefiles.
+Após clone do repositório ou download da pasta, rode os comandos `unzip biomas.zip`, `unzip uf_2018.zip` e `unzip focos_2024_br.zip` para extrair os arquivos shapefiles.
 
 ---
 
@@ -20,7 +20,7 @@ O repositório inclui três shapefiles principais no formato **.zip** que são u
 
 1. **uf_2018.shp** – Polígonos das UFs do Brasil (2018);
 2. **biomas.shp** – Polígonos dos biomas do Brasil;
-3. **focos.shp** – Conjunto de pontos com dados de queimadas para o Brasil entre Maio/Dezembro de 2024;
+3. **focos_2024_br.shp** – Conjunto de pontos com dados de queimadas para o Brasil entre Maio/Dezembro de 2024;
 
 ---
 
