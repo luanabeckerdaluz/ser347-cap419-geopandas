@@ -1,6 +1,8 @@
 # 2025 - SER-347/CAP-419 - Introdução à Programação com Dados Geoespaciais
 ## Análise de Dados Geoespaciais - GeoPandas 🌍
-- Luana Becker da Luz
+- Gilberto Ribeiro De Queiroz
+- Thales Sehn Körting
+- Luana Becker da Luz (somente esta aula)
 
 ---
 
